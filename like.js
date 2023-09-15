@@ -1,5 +1,5 @@
 function nextphoto() {
-    // passar para a proxima foto
+    // click to next profile picture
     document.getElementsByClassName("_abl-")[0].click();
 
     // Set a timeout to call the nextphoto() function again
